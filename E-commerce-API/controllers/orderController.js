@@ -182,6 +182,9 @@ const updateOrder = async (req, res) => {
     if (status === 'Cancelled' && existingOrder.status !== 'Pending') {
       return res.status(400).json({ status: 'error', data: { message: 'Cannot cancel an order that is not in "Pending" status' } });
     }
+    if (existingOrder.status === 'Delivered') {
+      return res.status(400).json({ status: 'error', data: { message: 'Cannot change the status of a delivered order' } });
+    }
     // Create an object with fields to update
     const updateFields = {
       phoneNumber,
