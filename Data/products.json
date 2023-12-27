@@ -1,0 +1,523 @@
+{
+    "_id" : ObjectId("655d8f84d2f2fa12e6622c70"),
+    "name" : "Webcam 480P A4Tech PK-635G",
+    "name_slug" : "webcam-480p-a4tech-pk-635g",
+    "stock" : NumberInt(99),
+    "price" : "250000",
+    "minPrice" : null,
+    "maxPrice" : null,
+    "newPrice" : "225000",
+    "specification" : "<p>Độ phân giải: 480p</p><p>Góc camera: Xoay dọc 52 độ</p><p>Kết nối: USB 2.0</p><p>Hỗ trợ thiết bị: PC, Laptop</p><p>Tiện ích: Không có</p><p>Vị trí lắp đặt: Trong nhà</p><p>Đàm thoại 2 chiều: Có</p><p>Adapter kèm theo: Không kèm Adapter</p><p>Kích thước: Dài 7.8 cm - Rộng 3.3 cm - Cao 14 cm - Nặng 206 g</p><p>Thương hiệu của: Đài Loan</p><p>Sản xuất tại: Trung Quốc</p><p>Hàng: A4Tech</p>",
+    "description" : "<p>Webcam 480p A4Tech PK-635G Bạc chính hãng, giá rẻ dành cho gia đình, văn phòng với độ phân giải HD, full HD, bảo hành chính hãng, giao hàng tận nơi tại GPM.</p>",
+    "images" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/qCYYSw6Lzw.png",
+            "_id" : ObjectId("655d8f84d2f2fa12e6622c71")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/LcjTwC6v8Q.png",
+            "_id" : ObjectId("655d8f84d2f2fa12e6622c72")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/CLcaTnBm49.png",
+            "_id" : ObjectId("655d8f84d2f2fa12e6622c73")
+        }
+    ],
+    "discount" : NumberInt(10),
+    "category" : ObjectId("6549d1d33b287de5aa8639a3"),
+    "brand" : ObjectId("655cbe76d40b8cc33d19cc11"),
+    "colors" : [
+
+    ],
+    "isPublish" : true,
+    "orders" : [
+        ObjectId("6579bc4f4684c2b0bc603f7f")
+    ],
+    "ordersCount" : NumberInt(1),
+    "publishedDate" : "Nov 22, Wed 12:20:04",
+    "updatedAt" : "Nov 22, Wed 12:20:04",
+    "__v" : NumberInt(5)
+}
+{
+    "_id" : ObjectId("655dc63ad2f2fa12e6622c7e"),
+    "name" : "Webcam 480P A4Tech PK-710G",
+    "name_slug" : "webcam-480p-a4tech-pk-710g",
+    "stock" : NumberInt(95),
+    "price" : "300000",
+    "minPrice" : null,
+    "maxPrice" : null,
+    "newPrice" : "270000",
+    "specification" : "<ul><li>Độ phân giải: 480p</li><li>Góc camera: 60 độ</li><li>Kết nối: USB 2.0</li><li>Hỗ trợ thiết bị: PC, Laptop</li><li>Tiện ích: Không có</li><li>Vị trí lắp đặt: Trong nhà</li><li>Đàm thoại 2 chiều: Có</li><li>Adapter kèm theo: Không kèm Adapter</li><li>Kích thước: Dài 5.5 cm - Rộng 5 cm - Cao 8.8 cm - Nặng 176 g</li><li>Thương hiệu của: Đài Loan</li><li>Sản xuất tại: Trung Quốc</li><li>Hàng: A4Tech</li></ul>",
+    "description" : "<p>Webcam 480p A4Tech PK-710G Đen chính hãng, giá rẻ dành cho gia đình và văn phòng. Được trang bị độ phân giải HD, full HD, và bảo hành chính hãng. Giao hàng tận nơi tại GPM.</p>",
+    "images" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/8KxErEu71I.png",
+            "_id" : ObjectId("655dc63ad2f2fa12e6622c7f")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/agg7yu75vi.png",
+            "_id" : ObjectId("655dc63ad2f2fa12e6622c80")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/OrD19zemz5.png",
+            "_id" : ObjectId("655dc63ad2f2fa12e6622c81")
+        }
+    ],
+    "discount" : NumberInt(10),
+    "category" : ObjectId("6549d1d33b287de5aa8639a3"),
+    "brand" : ObjectId("655cbe76d40b8cc33d19cc11"),
+    "colors" : [
+
+    ],
+    "isPublish" : true,
+    "orders" : [
+        ObjectId("656efc9fcba29994e14a4d82"),
+        ObjectId("65712c03262e1951a92cace9"),
+        ObjectId("65712d81262e1951a92cad50"),
+        ObjectId("6576873360abb18a36c93ff6"),
+        ObjectId("6579bcaf4684c2b0bc603fb2")
+    ],
+    "ordersCount" : NumberInt(5),
+    "publishedDate" : "Nov 22, Wed 16:13:30",
+    "updatedAt" : "Nov 22, Wed 16:13:30",
+    "__v" : NumberInt(9)
+}
+{
+    "_id" : ObjectId("655dc6d2d2f2fa12e6622c89"),
+    "name" : "Webcam 720P Genius 1000X",
+    "name_slug" : "webcam-720p-genius-1000x",
+    "stock" : NumberInt(0),
+    "price" : "330000",
+    "minPrice" : null,
+    "maxPrice" : null,
+    "newPrice" : "297000",
+    "specification" : "<ul><li>Độ phân giải: HD 720p</li><li>Góc camera: Xoay 90 độ</li><li>Kết nối: USB 2.0</li><li>Hỗ trợ thiết bị: Windows, Linux, Mac</li><li>Tiện ích: Tự động nhận diện khuôn mặt, cơ chế bảo vệ hình ảnh</li><li>Vị trí lắp đặt: Trong nhà</li><li>Đàm thoại 2 chiều: Có</li><li>Adapter kèm theo: Không kèm Adapter</li><li>Nhiệt độ hoạt động: Hoạt động ở nhiệt độ thông thường</li><li>Kích thước: Dài 6 cm - Rộng 3.2 cm - Cao 7.6 cm - Nặng 130 g</li><li>Thương hiệu của: Đài Loan</li><li>Sản xuất tại: Trung Quốc</li><li>Hàng: Genius</li></ul>",
+    "description" : "<p>Webcam 720p Genius 1000X Đen chính hãng, giá rẻ dành cho gia đình và văn phòng. Được trang bị độ phân giải HD, full HD, và bảo hành chính hãng. Giao hàng tận nơi tại GPM.</p>",
+    "images" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/4OxHzyFTdb.png",
+            "_id" : ObjectId("655dc6d2d2f2fa12e6622c8a")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/2qc7UT2DGl.png",
+            "_id" : ObjectId("655dc6d2d2f2fa12e6622c8b")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/41rZvIAdAW.png",
+            "_id" : ObjectId("655dc6d2d2f2fa12e6622c8c")
+        }
+    ],
+    "discount" : NumberInt(10),
+    "category" : ObjectId("6549d1d33b287de5aa8639a3"),
+    "brand" : ObjectId("655cc34fd40b8cc33d19cc24"),
+    "colors" : [
+
+    ],
+    "isPublish" : true,
+    "orders" : [
+        ObjectId("656efc9fcba29994e14a4d82"),
+        ObjectId("65707deec96f51a1353cffd1"),
+        ObjectId("65707f3ec96f51a1353cfff9"),
+        ObjectId("65708306c96f51a1353d0024"),
+        ObjectId("65709423c96f51a1353d0053"),
+        ObjectId("657129df262e1951a92cacdf"),
+        ObjectId("65712c47262e1951a92cad22"),
+        ObjectId("6577d3310a6e2c520da91214"),
+        ObjectId("6578150e0a6e2c520da9154f"),
+        ObjectId("65810eee2607e429ea91a80f"),
+        ObjectId("6582e17131f1e43e0634cad8"),
+        ObjectId("6583f55c6f79aafa3c295032")
+    ],
+    "ordersCount" : NumberInt(12),
+    "publishedDate" : "Nov 22, Wed 16:16:02",
+    "updatedAt" : "Dec 12, Tue 10:32:42",
+    "__v" : NumberInt(14)
+}
+{
+    "_id" : ObjectId("655dc785d2f2fa12e6622c98"),
+    "name" : "Webcam 1080P Asus Rog Eye S",
+    "name_slug" : "webcam-1080p-asus-rog-eye-s",
+    "stock" : NumberInt(78),
+    "price" : "1300000",
+    "minPrice" : null,
+    "maxPrice" : null,
+    "newPrice" : "1170000",
+    "specification" : "<ul><li>Độ phân giải: 1944 x 1080 P60 FHD</li><li>Góc camera: Xoay 84 độ</li><li>Kết nối: USB 3.0 &amp; 2.0</li><li>Hỗ trợ thiết bị: Mac, PC</li><li>Tiện ích: Không có</li><li>Vị trí lắp đặt: Trong nhà</li><li>Đàm thoại 2 chiều: Có</li><li>Adapter kèm theo: Không kèm Adapter</li><li>Kích thước: Dài 8 cm - Rộng 4 cm - Cao 4.5 cm - Nặng 118 g</li><li>Thương hiệu của: Đài Loan</li><li>Sản xuất tại: Trung Quốc</li><li>Hàng: Asus<br>&nbsp;</li></ul>",
+    "description" : "<p><br>Webcam 1080p Asus Rog Eye S Đen chính hãng, giá rẻ dành cho gia đình và văn phòng. Được trang bị độ phân giải HD, full HD, và bảo hành chính hãng. Giao hàng tận nơi tại GPM.</p>",
+    "images" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/So13Egxcyl.png",
+            "_id" : ObjectId("655dc785d2f2fa12e6622c99")
+        }
+    ],
+    "discount" : NumberInt(10),
+    "category" : ObjectId("6549d1d33b287de5aa8639a3"),
+    "brand" : ObjectId("655dc6fdd2f2fa12e6622c94"),
+    "colors" : [
+
+    ],
+    "isPublish" : true,
+    "orders" : [
+        ObjectId("6582a58411dec0b8267e739e")
+    ],
+    "ordersCount" : NumberInt(1),
+    "publishedDate" : "Nov 22, Wed 16:19:01",
+    "updatedAt" : "Nov 22, Wed 16:19:01",
+    "__v" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("655f4a03bbad56341288331f"),
+    "name" : "Camera IP 360 Độ 1536P TP-Link Tapo C210",
+    "name_slug" : "camera-ip-360-độ-1536p-tp-link-tapo-c210",
+    "stock" : NumberInt(89),
+    "price" : "900000",
+    "minPrice" : null,
+    "maxPrice" : null,
+    "newPrice" : "810000",
+    "specification" : "<ul><li>Độ phân giải: 3 MP (2048 x 1536)</li><li>Góc camera: Xoay ngang 360 độ, xoay dọc 114 độ</li><li>Lưu trữ: MicroSD ≤ 256GB (21-30 ngày)</li><li>Tầm nhìn xa hồng ngoại: 9 m trong tối</li><li>Hỗ trợ thiết bị: Android, iOS (iPhone), iPadOS (iPad)</li><li>Điều khiển và xem trên điện thoại: Ứng dụng Tapo</li><li>Tiện ích: Phát hiện chuyển động, gửi thông báo đến điện thoại khi có động</li><li>Vị trí lắp đặt: Trong nhà</li><li>Đàm thoại 2 chiều: Có</li><li>Adapter kèm theo: Có kèm Adapter</li><li>Kích thước: Dài 8.3 cm - Rộng 8.3 cm - Cao 12.5 cm</li><li>Thương hiệu của: Trung Quốc</li><li>Sản xuất tại: Trung Quốc</li><li>Hàng: TP-Link</li></ul>",
+    "description" : "<p>Camera Giám Sát 3MP TP-Link Tapo C210 chính hãng, giá rẻ dành cho gia đình và văn phòng. Được trang bị độ phân giải HD, full HD, và bảo hành chính hãng. Giao hàng tận nơi tại GPM.</p>",
+    "images" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/ty3XVrjCJ9.png",
+            "_id" : ObjectId("655f4a03bbad563412883320")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/1aMlOIOkwG.png",
+            "_id" : ObjectId("655f4a03bbad563412883321")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/ULO5TuqF4h.png",
+            "_id" : ObjectId("655f4a03bbad563412883322")
+        }
+    ],
+    "discount" : NumberInt(10),
+    "category" : ObjectId("655f4975bbad56341288330f"),
+    "brand" : ObjectId("655f4985bbad563412883313"),
+    "colors" : [
+
+    ],
+    "isPublish" : true,
+    "orders" : [
+
+    ],
+    "ordersCount" : NumberInt(0),
+    "publishedDate" : "Nov 23, Thu 19:48:03",
+    "updatedAt" : "Nov 23, Thu 19:48:03",
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("655f4c28bbad563412883332"),
+    "name" : "Camera IP 360 Độ 1080P TP-Link Tapo TC70",
+    "name_slug" : "camera-ip-360-độ-1080p-tp-link-tapo-tc70",
+    "stock" : NumberInt(89),
+    "price" : "800000",
+    "minPrice" : null,
+    "maxPrice" : null,
+    "newPrice" : "720000",
+    "specification" : "<ul><li>Độ phân giải: Full HD 1080p</li><li>Góc camera: Xoay ngang 360 độ, xoay dọc 114 độ</li><li>Lưu trữ: MicroSD ≤ 128GB (15-20 ngày)</li><li>Tầm nhìn xa hồng ngoại: 9 m trong tối</li><li>Hỗ trợ thiết bị: Android, iOS (iPhone), iPadOS (iPad)</li><li>Điều khiển và xem trên điện thoại: Ứng dụng Tapo</li><li>Tiện ích: Phát hiện chuyển động</li><li>Vị trí lắp đặt: Trong nhà</li><li>Đàm thoại 2 chiều: Có</li><li>Adapter kèm theo: Có kèm Adapter</li><li>Nhiệt độ hoạt động: 0℃ ~ 40℃</li><li>Nguồn điện đầu vào: 9 V</li><li>Kích thước: Dài 8.6 cm - Rộng 8.6 cm - Cao 12.2 cm</li><li>Thương hiệu của: Trung Quốc</li><li>Sản xuất tại: Trung Quốc</li><li>Hàng: TP-Link</li></ul>",
+    "description" : "<p><br>Camera IP 360 độ 1080P TP-Link Tapo TC70 Trắng chính hãng, giá rẻ dành cho gia đình và văn phòng. Được trang bị độ phân giải HD, full HD, và bảo hành chính hãng. Giao hàng tận nơi tại GPM.</p>",
+    "images" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/HVtmiykI3A.png",
+            "_id" : ObjectId("655f4c28bbad563412883333")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/o3haYz3UQe.png",
+            "_id" : ObjectId("655f4c28bbad563412883334")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/7mcRQN5FQq.png",
+            "_id" : ObjectId("655f4c28bbad563412883335")
+        }
+    ],
+    "discount" : NumberInt(10),
+    "category" : ObjectId("655f4975bbad56341288330f"),
+    "brand" : ObjectId("655f4985bbad563412883313"),
+    "colors" : [
+
+    ],
+    "isPublish" : true,
+    "orders" : [
+        ObjectId("6582a5d111dec0b8267e73cb")
+    ],
+    "ordersCount" : NumberInt(1),
+    "publishedDate" : "Nov 23, Thu 19:57:12",
+    "updatedAt" : "Nov 23, Thu 19:57:12",
+    "__v" : NumberInt(3)
+}
+{
+    "_id" : ObjectId("655f4d38bbad563412883341"),
+    "name" : "Camera IP 360 Độ 1080P Ezviz C6N",
+    "name_slug" : "camera-ip-360-độ-1080p-ezviz-c6n",
+    "stock" : NumberInt(59),
+    "price" : "880000",
+    "minPrice" : null,
+    "maxPrice" : null,
+    "newPrice" : "792000",
+    "specification" : "<ul><li>Độ phân giải: 2 MP (1920 x 1080)</li><li>Góc camera: Xoay ngang 360 độ, xoay dọc 45 độ, xoay chéo 85 độ</li><li>Lưu trữ: MicroSD ≤ 256GB (21-30 ngày)</li><li>Tầm nhìn xa hồng ngoại: 10 m trong tối</li><li>Hỗ trợ thiết bị: Android, iOS (iPhone), iPadOS (iPad)</li><li>Điều khiển và xem trên điện thoại: Ứng dụng EZVIZ</li><li>Tiện ích: Phát hiện chuyển động, quay ban đêm</li><li>Vị trí lắp đặt: Trong nhà</li><li>Đàm thoại 2 chiều: Có</li><li>Adapter kèm theo: Có kèm Adapter</li><li>Nhiệt độ hoạt động: -10℃ ~ 45℃</li><li>Nguồn điện đầu vào: 5V - 1A</li><li>Kích thước: Dài 8.82 cm - Rộng 8.8 cm - Cao 11.9 cm - Nặng 218 g</li><li>Thương hiệu của: Trung Quốc</li><li>Sản xuất tại: Trung Quốc</li><li>Hàng: EZVIZ</li></ul>",
+    "description" : "<p>Camera IP 360 Độ 1080P Ezviz C6N Trắng chính hãng, giá rẻ dành cho gia đình và văn phòng. Được trang bị độ phân giải Full HD, và bảo hành chính hãng. Giao hàng tận nơi tại GPM.</p>",
+    "images" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/rJs31LAryz.png",
+            "_id" : ObjectId("655f4d38bbad563412883342")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/iXggjkaond.png",
+            "_id" : ObjectId("655f4d38bbad563412883343")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/wC7m1YPKsX.png",
+            "_id" : ObjectId("655f4d38bbad563412883344")
+        }
+    ],
+    "discount" : NumberInt(10),
+    "category" : ObjectId("655f4975bbad56341288330f"),
+    "brand" : ObjectId("655f4d0fbbad56341288333d"),
+    "colors" : [
+
+    ],
+    "isPublish" : true,
+    "orders" : [
+        ObjectId("65712c47262e1951a92cad22")
+    ],
+    "ordersCount" : NumberInt(1),
+    "publishedDate" : "Nov 23, Thu 20:01:44",
+    "updatedAt" : "Nov 23, Thu 20:01:44",
+    "__v" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("655f51a5bbad563412883363"),
+    "name" : "Camera IP 360 Độ 1080P Xiaomi Mi Home BHR4885GL",
+    "name_slug" : "camera-ip-360-độ-1080p-xiaomi-mi-home-bhr4885gl",
+    "stock" : NumberInt(79),
+    "price" : "1000000",
+    "minPrice" : null,
+    "maxPrice" : null,
+    "newPrice" : "950000",
+    "specification" : "<ul><li>Độ phân giải: Full HD 1080p</li><li>Góc camera: Xoay dọc 108 độ, xoay ngang 360 độ</li><li>Lưu trữ: MicroSD ≤ 32GB (4-5 ngày)</li><li>Tầm nhìn xa hồng ngoại: 10 m trong tối</li><li>Kết nối: Wifi</li><li>Hỗ trợ thiết bị: Android, iOS (iPhone), iPadOS (iPad)</li><li>Điều khiển và xem trên điện thoại: Ứng dụng Mi Home</li><li>Tiện ích: Phát hiện chuyển động</li><li>Vị trí lắp đặt: Trong nhà</li><li>Đàm thoại 2 chiều: Có</li><li>Adapter kèm theo: Không kèm Adapter</li><li>Kích thước: Dài 7 cm - Rộng 7 cm - Cao 11 cm</li><li>Thương hiệu của: Trung Quốc</li><li>Sản xuất tại: Trung Quốc</li><li>Hàng: Xiaomi</li></ul>",
+    "description" : "<p>Camera Giám Sát 1080P Xiaomi BHR4885GL chính hãng, giá rẻ dành cho gia đình và văn phòng. Được trang bị độ phân giải Full HD, và bảo hành chính hãng. Giao hàng tận nơi tại GPM.</p>",
+    "images" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/pOCyGj7GWS.png",
+            "_id" : ObjectId("655f51a5bbad563412883364")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/M7bmo0U1om.png",
+            "_id" : ObjectId("655f51a5bbad563412883365")
+        }
+    ],
+    "discount" : NumberInt(5),
+    "category" : ObjectId("655f4975bbad56341288330f"),
+    "brand" : ObjectId("655f513abbad56341288335f"),
+    "colors" : [
+
+    ],
+    "isPublish" : true,
+    "orders" : [
+        ObjectId("65804f9fc65d237ca63d9e00")
+    ],
+    "ordersCount" : NumberInt(1),
+    "publishedDate" : "Nov 23, Thu 20:20:37",
+    "updatedAt" : "Nov 23, Thu 20:20:37",
+    "__v" : NumberInt(5)
+}
+{
+    "_id" : ObjectId("655f52c1bbad563412883382"),
+    "name" : "Camera IP 360 Độ 2K Pro Xiaomi Mi Home BHR4193GL",
+    "name_slug" : "camera-ip-360-độ-2k-pro-xiaomi-mi-home-bhr4193gl",
+    "stock" : NumberInt(50),
+    "price" : "1700000",
+    "minPrice" : null,
+    "maxPrice" : null,
+    "newPrice" : "1530000",
+    "specification" : "<ul><li>Độ phân giải: 2304 x 1296 2K</li><li>Góc camera: Xoay ngang 360 độ, xoay dọc 118 độ</li><li>Lưu trữ: MicroSD ≤ 32GB (4-5 ngày)</li><li>Tầm nhìn xa hồng ngoại: 10 m trong tối</li><li>Kết nối: Wifi</li><li>Hỗ trợ thiết bị: Android, iOS (iPhone), iPadOS (iPad)</li><li>Điều khiển và xem trên điện thoại: Ứng dụng Mi Home</li><li>Tiện ích: Phát hiện chuyển động</li><li>Vị trí lắp đặt: Trong nhà</li><li>Đàm thoại 2 chiều: Có</li><li>Adapter kèm theo: Có kèm Adapter</li><li>Kích thước: Dài 12.5 cm - Rộng 7.7 cm - Cao 12.5 cm</li><li>Thương hiệu của: Trung Quốc</li><li>Sản xuất tại: Trung Quốc</li><li>Hàng: Xiaomi</li></ul>",
+    "description" : "<p>Camera Giám Sát Full HD 2K Pro Xiaomi BHR4193GL chính hãng, giá rẻ dành cho gia đình và văn phòng. Được trang bị độ phân giải 2304 x 1296 2K, và bảo hành chính hãng. Giao hàng tận nơi tại GPM.</p>",
+    "images" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/VYBgOXerh2.png",
+            "_id" : ObjectId("655f52c1bbad563412883383")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/WTgfRAI4pw.png",
+            "_id" : ObjectId("655f52c1bbad563412883384")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/bVL2m4l5Cf.png",
+            "_id" : ObjectId("655f52c1bbad563412883385")
+        }
+    ],
+    "discount" : NumberInt(10),
+    "category" : ObjectId("655f4975bbad56341288330f"),
+    "brand" : ObjectId("655f513abbad56341288335f"),
+    "colors" : [
+
+    ],
+    "isPublish" : true,
+    "orders" : [
+
+    ],
+    "ordersCount" : NumberInt(0),
+    "publishedDate" : "Nov 23, Thu 20:25:21",
+    "updatedAt" : "Nov 23, Thu 20:25:21",
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("655f5365bbad563412883391"),
+    "name" : "Camera IP Ngoài Trời 3MP TP-link Tapo C310",
+    "name_slug" : "camera-ip-ngoài-trời-3mp-tp-link-tapo-c310",
+    "stock" : NumberInt(83),
+    "price" : "1000000",
+    "minPrice" : null,
+    "maxPrice" : null,
+    "newPrice" : "900000",
+    "specification" : "<ul><li>Độ phân giải: 3 MP (2048 x 1536)</li><li>Góc camera: Xoay dọc 114 độ</li><li>Lưu trữ: MicroSD ≤ 128GB (15-20 ngày)</li><li>Tầm nhìn xa hồng ngoại: 30 m trong tối</li><li>Hỗ trợ thiết bị: Android 4.4 trở lên và iOS 9.0 trở lên</li><li>Điều khiển và xem trên điện thoại: Ứng dụng Tapo</li><li>Tiện ích: Chống nước, bụi IP66, phát hiện chuyển động</li><li>Vị trí lắp đặt: Trong nhà ngoài trời</li><li>Đàm thoại 2 chiều: Có</li><li>Adapter kèm theo: Có kèm Adapter</li><li>Nhiệt độ hoạt động: -20°C ~ 45°C</li><li>Nguồn điện đầu vào: 9 V</li><li>Kích thước: Dài 14 cm - Rộng 6.7 cm - Cao 5.7 cm - Nặng (Hàng không công bố)</li><li>Thương hiệu của: Trung Quốc</li><li>Sản xuất tại: Trung Quốc</li><li>Hàng: TP-Link</li></ul>",
+    "description" : "<p>Camera IP Ngoài Trời 1536P TP-link Tapo C310 Trắng chính hãng, giá rẻ dành cho gia đình và văn phòng. Được trang bị độ phân giải 3 MP (2048 x 1536), và bảo hành chính hãng. Giao hàng tận nơi tại GPM.</p>",
+    "images" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/fx1XORpDQu.png",
+            "_id" : ObjectId("655f5365bbad563412883392")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/gPiYYQUVa0.png",
+            "_id" : ObjectId("655f5365bbad563412883393")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/Pm7AJ2WQge.png",
+            "_id" : ObjectId("655f5365bbad563412883394")
+        }
+    ],
+    "discount" : NumberInt(10),
+    "category" : ObjectId("655f52dcbbad56341288338d"),
+    "brand" : ObjectId("655f4985bbad563412883313"),
+    "colors" : [
+
+    ],
+    "isPublish" : true,
+    "orders" : [
+        ObjectId("65810eee2607e429ea91a80f"),
+        ObjectId("6582a58411dec0b8267e739e")
+    ],
+    "ordersCount" : NumberInt(2),
+    "publishedDate" : "Nov 23, Thu 20:28:05",
+    "updatedAt" : "Nov 23, Thu 20:28:05",
+    "__v" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("655f54b1bbad5634128833a0"),
+    "name" : "Camera IP Ngoài Trời 4MP TP-Link Tapo C320WS",
+    "name_slug" : "camera-ip-ngoài-trời-4mp-tp-link-tapo-c320ws",
+    "stock" : NumberInt(87),
+    "price" : "1300000",
+    "minPrice" : null,
+    "maxPrice" : null,
+    "newPrice" : "1170000",
+    "specification" : "<ul><li>Độ phân giải: 4 MP (2560 x 1440)</li><li>Góc camera: Xoay dọc 114 độ</li><li>Lưu trữ: MicroSD ≤ 256GB (21-30 ngày)</li><li>Tầm nhìn xa hồng ngoại: 30 m trong tối</li><li>Hỗ trợ thiết bị: Android 4.4 trở lên và iOS 9.0 trở lên</li><li>Điều khiển và xem trên điện thoại: Ứng dụng Tapo</li><li>Tiện ích: Chống nước, bụi IP66, phát hiện chuyển động, phát hiện con người</li><li>Vị trí lắp đặt: Ngoài trời</li><li>Đàm thoại 2 chiều: Có</li><li>Adapter kèm theo: Có kèm Adapter</li><li>Nhiệt độ hoạt động: -20°C ~ 60°C</li><li>Nguồn điện đầu vào: 0.9V - 0.6A (Nguồn DC)</li><li>Kích thước: Dài 7 cm - Rộng 6 cm - Cao 16 cm - Nặng 575 (bao gồm hộp)</li><li>Thương hiệu của: Trung Quốc</li><li>Sản xuất tại: Trung Quốc</li><li>Hàng: TP-Link</li></ul>",
+    "description" : "<p>Camera IP Ngoài Trời 4MP TP-link Tapo C320WS Trắng chính hãng, giá rẻ dành cho gia đình và văn phòng. Được trang bị độ phân giải 4 MP (2560 x 1440), và bảo hành chính hãng. Giao hàng tận nơi tại GPM.</p>",
+    "images" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/RAys5ITUJK.png",
+            "_id" : ObjectId("655f54b1bbad5634128833a1")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/V6N0Nf7m42.png",
+            "_id" : ObjectId("655f54b1bbad5634128833a2")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/xpL5RtWTSD.png",
+            "_id" : ObjectId("655f54b1bbad5634128833a3")
+        }
+    ],
+    "discount" : NumberInt(10),
+    "category" : ObjectId("655f52dcbbad56341288338d"),
+    "brand" : ObjectId("655f4985bbad563412883313"),
+    "colors" : [
+
+    ],
+    "isPublish" : true,
+    "orders" : [
+        ObjectId("656efc9fcba29994e14a4d82"),
+        ObjectId("65712d39262e1951a92cad4a"),
+        ObjectId("6582deaa31f1e43e0634c9ed")
+    ],
+    "ordersCount" : NumberInt(3),
+    "publishedDate" : "Nov 23, Thu 20:33:37",
+    "updatedAt" : "Dec 21, Thu 12:38:55",
+    "__v" : NumberInt(5)
+}
+{
+    "_id" : ObjectId("655f5586bbad5634128833ba"),
+    "name" : "Camera IP Ngoài Trời 360 Độ 4MP Ezviz C8W",
+    "name_slug" : "camera-ip-ngoài-trời-360-độ-4mp-ezviz-c8w",
+    "stock" : NumberInt(59),
+    "price" : "2100000",
+    "minPrice" : null,
+    "maxPrice" : null,
+    "newPrice" : "1890000",
+    "specification" : "<ul><li>Độ phân giải: 4 MP (2560 x 1440)</li><li>Góc camera: Xoay ngang 360 độ, xoay chéo 105 độ</li><li>Lưu trữ: MicroSD ≤ 256GB (21-30 ngày)</li><li>Tầm nhìn xa hồng ngoại: 30 m trong tối</li><li>Hỗ trợ thiết bị: Android, iOS (iPhone), iPadOS (iPad)</li><li>Điều khiển và xem trên điện thoại: Ứng dụng EZVIZ</li><li>Tiện ích: Chống nước, bụi IP65, phát hiện con người</li><li>Vị trí lắp đặt: Ngoài trời</li><li>Đàm thoại 2 chiều: Có</li><li>Adapter kèm theo: Có kèm Adapter</li><li>Nhiệt độ hoạt động: -30°C ~ 60°C</li><li>Nguồn điện đầu vào: 12V - 1A</li><li>Kích thước: Dài 15.8 cm - Rộng 15.7 cm - Cao 14.9 cm - Nặng 510 g</li><li>Thương hiệu của: Trung Quốc</li><li>Sản xuất tại: Trung Quốc</li><li>Hàng: EZVIZ</li></ul>",
+    "description" : "<ul><li>Camera IP Ngoài Trời 360 Độ 4MP Ezviz C8W Trắng Đen chính hãng, bảo hành chính hãng, giao hàng tận nơi.</li></ul>",
+    "images" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/xWMdbEL9gv.png",
+            "_id" : ObjectId("655f5586bbad5634128833bb")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/oXEHhnRCdi.png",
+            "_id" : ObjectId("655f5586bbad5634128833bc")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/ldmP12PD90.png",
+            "_id" : ObjectId("655f5586bbad5634128833bd")
+        }
+    ],
+    "discount" : NumberInt(10),
+    "category" : ObjectId("655f52dcbbad56341288338d"),
+    "brand" : ObjectId("655f4d0fbbad56341288333d"),
+    "colors" : [
+
+    ],
+    "isPublish" : true,
+    "orders" : [
+        ObjectId("6579b99a4684c2b0bc603e94")
+    ],
+    "ordersCount" : NumberInt(1),
+    "publishedDate" : "Nov 23, Thu 20:37:10",
+    "updatedAt" : "Dec 21, Thu 12:38:18",
+    "__v" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("655f6053bbad5634128833c5"),
+    "name" : "Camera IP Ngoài Trời 3MP Ezviz C3TN",
+    "name_slug" : "camera-ip-ngoài-trời-3mp-ezviz-c3tn",
+    "stock" : NumberInt(78),
+    "price" : "1700000",
+    "minPrice" : null,
+    "maxPrice" : null,
+    "newPrice" : "1547000",
+    "specification" : "<ul><li>Độ phân giải: 3 MP (2304 x 1296)</li><li>Góc camera: Xoay ngang 109 độ, xoay chéo 126 độ</li><li>Lưu trữ: MicroSD ≤ 256GB (21-30 ngày)</li><li>Tầm nhìn xa hồng ngoại: 30 m trong tối</li><li>Hỗ trợ thiết bị: Android, iOS (iPhone), iPadOS (iPad)</li><li>Điều khiển và xem trên điện thoại: Ứng dụng EZVIZ</li><li>Tiện ích: Đèn LED trợ sáng, tích hợp còi thông báo, quay ban đêm</li><li>Vị trí lắp đặt: Ngoài trời</li><li>Đàm thoại 2 chiều: Có</li><li>Adapter kèm theo: Có kèm Adapter</li><li>Nhiệt độ hoạt động: -20℃ ~ 50℃</li><li>Nguồn điện đầu vào: 12V - 1A</li><li>Kích thước: Dài 7.2 cm - Rộng 7.2 cm - Cao 15.2 cm - Nặng 253 g</li><li>Thương hiệu của: Trung Quốc</li><li>Sản xuất tại: Trung Quốc</li><li>Hàng: EZVIZ</li></ul>",
+    "description" : "<ul><li>Camera IP Ngoài Trời 3MP Ezviz C3TN Trắng chính hãng, giá rẻ dành cho gia đình, văn phòng với độ phân giải cao, bảo hành chính hãng, giao hàng tận nơi tại GPM.</li></ul>",
+    "images" : [
+        {
+            "url" : "http://localhost:5000/public/uploads/EzeKQddhGO.png",
+            "_id" : ObjectId("655f6053bbad5634128833c6")
+        },
+        {
+            "url" : "http://localhost:5000/public/uploads/ZN2jaBitZx.png",
+            "_id" : ObjectId("655f6053bbad5634128833c7")
+        }
+    ],
+    "discount" : NumberInt(9),
+    "category" : ObjectId("655f52dcbbad56341288338d"),
+    "brand" : ObjectId("655f4d0fbbad56341288333d"),
+    "colors" : [
+
+    ],
+    "isPublish" : true,
+    "orders" : [
+        ObjectId("6582a58411dec0b8267e739e"),
+        ObjectId("65839b026f79aafa3c294ef7")
+    ],
+    "ordersCount" : NumberInt(2),
+    "publishedDate" : "Nov 23, Thu 21:23:15",
+    "updatedAt" : "Dec 21, Thu 12:37:41",
+    "__v" : NumberInt(2)
+}

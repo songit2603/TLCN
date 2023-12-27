@@ -1,0 +1,172 @@
+{
+    "_id" : ObjectId("654897ec32ed633840d93e2f"),
+    "name" : "Nguyen Hong Son",
+    "email" : "sonnguyenhong382@gmail.com",
+    "avatar" : {
+        "url" : "http://localhost:5000/public/uploads/avatar.jpg",
+        "_id" : ObjectId("654b89cb1b8115e32238232f")
+    },
+    "password" : "$2a$10$yb9vO7udETt4NoeM5ZXcsORfxvf6GPbcoDfVADOIsO6V69EeI9lS2",
+    "role" : "admin",
+    "__v" : NumberInt(1),
+    "addresses" : [
+
+    ],
+    "createDate" : "Dec 19, Tue 10:29:02",
+    "modifyDate" : "Dec 19, Tue 10:29:23",
+    "orders" : [
+
+    ],
+    "status" : "active"
+}
+{
+    "_id" : ObjectId("654a38380a9cea6287a73bf5"),
+    "name" : "Khai Phan",
+    "email" : "kd@gmail.com",
+    "avatar" : {
+        "url" : "http://localhost:5000/public/uploads/avatar.jpg",
+        "_id" : ObjectId("654b89961b8115e322382325")
+    },
+    "password" : "$2a$10$rGqg9CN/t.Nm1V3MjYzRmOoyYGoO1nXldCTZgyfeKg4u193QCBfG6",
+    "role" : "user",
+    "__v" : NumberInt(1),
+    "image" : {
+        "url" : "http://localhost:5000/public/uploads/avatar.jpg",
+        "_id" : ObjectId("654b8839d25bb23ab596daa5")
+    },
+    "addresses" : [
+
+    ],
+    "createDate" : "Dec 19, Tue 10:28:59",
+    "modifyDate" : "Dec 19, Tue 10:29:19",
+    "orders" : [
+
+    ],
+    "status" : "active"
+}
+{
+    "_id" : ObjectId("654f0a2f2304b9bbd8fe5841"),
+    "name" : "Nguyễn Hoàng Thiên Bảo",
+    "email" : "admin@themesbrand.com",
+    "password" : "$2a$10$wny/wV3tn9K82bc08lAJ8OeYZTaov7rpBhARAqAWbH1vhWj/i3zvS",
+    "role" : "employee",
+    "__v" : NumberInt(1),
+    "addresses" : [
+
+    ],
+    "createDate" : "Dec 19, Tue 10:28:56",
+    "modifyDate" : "Dec 20, Wed 19:50:25",
+    "orders" : [
+
+    ],
+    "status" : "active"
+}
+{
+    "_id" : ObjectId("656d4266a46cb791ad1761db"),
+    "name" : "ngocnam",
+    "email" : "ngocnam2002.andanh@gmail.com",
+    "password" : "$2a$10$Pl.FrS5b1WAU1lxMfkNJBeKAnfznYs/B7L6pmdFTcw2NFUsi403iq",
+    "role" : "user",
+    "orders" : [
+
+    ],
+    "status" : "active",
+    "__v" : NumberInt(1),
+    "addresses" : [
+
+    ],
+    "createDate" : "Dec 19, Tue 10:28:53",
+    "modifyDate" : "Dec 19, Tue 10:29:13"
+}
+{
+    "_id" : ObjectId("656d4286a46cb791ad1761df"),
+    "name" : "ngocnam",
+    "email" : "thanhnam2002.blake@gmail.com",
+    "password" : "$2a$10$dfof4Nxe8RcJhq95Tf49XueCg49xyO9S9DQwS1kgTs0Ml34E2dDVu",
+    "role" : "user",
+    "orders" : [
+
+    ],
+    "status" : "active",
+    "__v" : NumberInt(1),
+    "addresses" : [
+
+    ],
+    "createDate" : "Dec 19, Tue 10:28:46",
+    "modifyDate" : "Dec 19, Tue 10:29:09"
+}
+{
+    "_id" : ObjectId("656d42e3a46cb791ad1761eb"),
+    "name" : "ThienBao",
+    "email" : "khaiHaso@gmail.com",
+    "password" : "$2a$10$8gvqzMHlykq55pNP1Zj7xumRWQBmIGpmsrCgkF5i2SUklJBbVCYEW",
+    "role" : "user",
+    "orders" : [
+        ObjectId("656efc9fcba29994e14a4d82"),
+        ObjectId("65707deec96f51a1353cffd1"),
+        ObjectId("65707f3ec96f51a1353cfff9"),
+        ObjectId("65712c47262e1951a92cad22"),
+        ObjectId("65740873dfc139341e739b84"),
+        ObjectId("6576873360abb18a36c93ff6"),
+        ObjectId("6577d3310a6e2c520da91214"),
+        ObjectId("6578150e0a6e2c520da9154f"),
+        ObjectId("6579b99a4684c2b0bc603e94"),
+        ObjectId("6579ba374684c2b0bc603ece"),
+        ObjectId("6579ba8f4684c2b0bc603f06"),
+        ObjectId("6579bbff4684c2b0bc603f3a"),
+        ObjectId("6579bc4f4684c2b0bc603f7f"),
+        ObjectId("6579bcaf4684c2b0bc603fb2"),
+        ObjectId("6579c1b73144419d2b779f2a"),
+        ObjectId("65810eee2607e429ea91a80f"),
+        ObjectId("6582a58411dec0b8267e739e"),
+        ObjectId("6582a5d111dec0b8267e73cb"),
+        ObjectId("6582deaa31f1e43e0634c9ed"),
+        ObjectId("6582df0531f1e43e0634ca33"),
+        ObjectId("6582e17131f1e43e0634cad8"),
+        ObjectId("6582e1b031f1e43e0634cb0f")
+    ],
+    "status" : "active",
+    "__v" : NumberInt(1),
+    "cart" : ObjectId("656d6afafc4e61f620ef9971"),
+    "addresses" : [
+
+    ],
+    "createDate" : "Dec 19, Tue 10:28:42",
+    "modifyDate" : "Dec 19, Tue 10:29:06"
+}
+{
+    "_id" : ObjectId("6576850dc6d60b288464fd59"),
+    "name" : "ThienBao",
+    "email" : "thienbao2002.dev@gmail.com",
+    "password" : "$2a$10$.JqU3frBp5gIXkEh1FY8/uSK6qPQ7JQpAaqX/uFwTujMWmoeL2viC",
+    "role" : "user",
+    "orders" : [
+
+    ],
+    "addresses" : [
+
+    ],
+    "status" : "active",
+    "createDate" : "Dec 11, Mon 10:42:05",
+    "modifyDate" : "Dec 11, Mon 10:42:05",
+    "__v" : NumberInt(0),
+    "cart" : ObjectId("6576851cc6d60b288464fd5e")
+}
+{
+    "_id" : ObjectId("6583cc9c6f79aafa3c294f32"),
+    "name" : "Thien Bao",
+    "email" : "baonguyen@gmail.com",
+    "password" : "$2a$10$XA9m5/5XTVuTw6T7sRLi0ecPjZjEofujPemINRHt05V/BESl84/b6",
+    "role" : "user",
+    "orders" : [
+
+    ],
+    "addresses" : [
+
+    ],
+    "status" : "active",
+    "createDate" : "Dec 21, Thu 12:26:52",
+    "modifyDate" : "Dec 21, Thu 12:26:53",
+    "__v" : NumberInt(0),
+    "cart" : ObjectId("6583f9866f79aafa3c295100")
+}

@@ -1,0 +1,27 @@
+{
+    "_id" : ObjectId("657d1ef9f25be1a43f7c40f5"),
+    "users" : [
+        ObjectId("654a38380a9cea6287a73bf5"),
+        ObjectId("656d4266a46cb791ad1761db"),
+        ObjectId("656d4286a46cb791ad1761df"),
+        ObjectId("656d42e3a46cb791ad1761eb"),
+        ObjectId("6576850dc6d60b288464fd59"),
+        ObjectId("6583cc9c6f79aafa3c294f32")
+    ],
+    "topSellingProducts" : [
+        ObjectId("655dc63ad2f2fa12e6622c7e"),
+        ObjectId("655dc6d2d2f2fa12e6622c89")
+    ],
+    "recentOrders" : [
+        ObjectId("65740873dfc139341e739b84"),
+        ObjectId("65712d81262e1951a92cad50"),
+        ObjectId("65712d39262e1951a92cad4a"),
+        ObjectId("65712c47262e1951a92cad22"),
+        ObjectId("65712c03262e1951a92cace9")
+    ],
+    "totalRevenue" : NumberInt(27860000),
+    "totalOrders" : NumberInt(2),
+    "totalUsers" : NumberInt(6),
+    "timestamp" : "Dec 27, Wed 14:00:06",
+    "__v" : NumberInt(71)
+}

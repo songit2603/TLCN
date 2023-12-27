@@ -1,0 +1,49 @@
+{
+    "_id" : ObjectId("656d6afafc4e61f620ef9971"),
+    "user" : ObjectId("656d42e3a46cb791ad1761eb"),
+    "items" : [
+
+    ],
+    "total" : NumberInt(0),
+    "__v" : NumberInt(56)
+}
+{
+    "_id" : ObjectId("6576851cc6d60b288464fd5e"),
+    "user" : ObjectId("6576850dc6d60b288464fd59"),
+    "items" : [
+        {
+            "product" : ObjectId("655dc785d2f2fa12e6622c98"),
+            "quantity" : NumberInt(2),
+            "price" : NumberInt(1300000),
+            "_id" : ObjectId("6576851cc6d60b288464fd5f")
+        },
+        {
+            "product" : ObjectId("655f54b1bbad5634128833a0"),
+            "quantity" : NumberInt(1),
+            "price" : NumberInt(1300000),
+            "_id" : ObjectId("6576853fc6d60b288464fd64")
+        }
+    ],
+    "total" : NumberInt(3900000),
+    "__v" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("6583f9866f79aafa3c295100"),
+    "user" : ObjectId("6583cc9c6f79aafa3c294f32"),
+    "items" : [
+        {
+            "product" : ObjectId("655f54b1bbad5634128833a0"),
+            "quantity" : NumberInt(1),
+            "price" : NumberInt(1170000),
+            "_id" : ObjectId("6583f9866f79aafa3c295101")
+        },
+        {
+            "product" : ObjectId("655dc63ad2f2fa12e6622c7e"),
+            "quantity" : NumberInt(6),
+            "price" : NumberInt(270000),
+            "_id" : ObjectId("658441b27210a90cce86a521")
+        }
+    ],
+    "total" : NumberInt(2790000),
+    "__v" : NumberInt(1)
+}

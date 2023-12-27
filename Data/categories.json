@@ -1,0 +1,40 @@
+{
+    "_id" : ObjectId("6549d1d33b287de5aa8639a3"),
+    "name" : "Web Cam",
+    "createDate" : "Nov 7, Tue 12:57:39",
+    "modifyDate" : "Nov 21, Tue 21:07:36",
+    "products" : [
+        ObjectId("655d8f84d2f2fa12e6622c70"),
+        ObjectId("655dc63ad2f2fa12e6622c7e"),
+        ObjectId("655dc6d2d2f2fa12e6622c89"),
+        ObjectId("655dc785d2f2fa12e6622c98")
+    ],
+    "__v" : NumberInt(28)
+}
+{
+    "_id" : ObjectId("655f4975bbad56341288330f"),
+    "name" : "Camera giám sát",
+    "createDate" : "Nov 23, Thu 19:45:41",
+    "modifyDate" : "Nov 23, Thu 19:45:41",
+    "products" : [
+        ObjectId("655f4a03bbad56341288331f"),
+        ObjectId("655f4c28bbad563412883332"),
+        ObjectId("655f4d38bbad563412883341"),
+        ObjectId("655f51a5bbad563412883363"),
+        ObjectId("655f52c1bbad563412883382")
+    ],
+    "__v" : NumberInt(5)
+}
+{
+    "_id" : ObjectId("655f52dcbbad56341288338d"),
+    "name" : "Camera ngoài trời",
+    "createDate" : "Nov 23, Thu 20:25:48",
+    "modifyDate" : "Nov 23, Thu 20:25:48",
+    "products" : [
+        ObjectId("655f5365bbad563412883391"),
+        ObjectId("655f54b1bbad5634128833a0"),
+        ObjectId("655f5586bbad5634128833ba"),
+        ObjectId("655f6053bbad5634128833c5")
+    ],
+    "__v" : NumberInt(4)
+}

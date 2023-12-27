@@ -1,0 +1,69 @@
+{
+    "_id" : ObjectId("655cbe76d40b8cc33d19cc11"),
+    "name" : "A4Tech",
+    "createDate" : "Nov 21, Tue 21:28:06",
+    "modifyDate" : "Nov 21, Tue 21:28:06",
+    "products" : [
+        ObjectId("655cbecfd40b8cc33d19cc15"),
+        ObjectId("655d8f84d2f2fa12e6622c70"),
+        ObjectId("655dc63ad2f2fa12e6622c7e")
+    ],
+    "__v" : NumberInt(3)
+}
+{
+    "_id" : ObjectId("655cc34fd40b8cc33d19cc24"),
+    "name" : "Genius",
+    "createDate" : "Nov 21, Tue 21:48:47",
+    "modifyDate" : "Nov 21, Tue 21:48:47",
+    "products" : [
+        ObjectId("655cc38dd40b8cc33d19cc28"),
+        ObjectId("655dc6d2d2f2fa12e6622c89")
+    ],
+    "__v" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("655dc6fdd2f2fa12e6622c94"),
+    "name" : "Asus",
+    "createDate" : "Nov 22, Wed 16:16:45",
+    "modifyDate" : "Nov 22, Wed 16:16:45",
+    "products" : [
+        ObjectId("655dc785d2f2fa12e6622c98")
+    ],
+    "__v" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("655f4985bbad563412883313"),
+    "name" : "TP-Link",
+    "createDate" : "Nov 23, Thu 19:45:57",
+    "modifyDate" : "Nov 23, Thu 19:45:57",
+    "products" : [
+        ObjectId("655f4a03bbad56341288331f"),
+        ObjectId("655f4c28bbad563412883332"),
+        ObjectId("655f5365bbad563412883391"),
+        ObjectId("655f54b1bbad5634128833a0")
+    ],
+    "__v" : NumberInt(4)
+}
+{
+    "_id" : ObjectId("655f4d0fbbad56341288333d"),
+    "name" : "EZVIZ",
+    "createDate" : "Nov 23, Thu 20:01:03",
+    "modifyDate" : "Nov 23, Thu 20:01:03",
+    "products" : [
+        ObjectId("655f4d38bbad563412883341"),
+        ObjectId("655f5586bbad5634128833ba"),
+        ObjectId("655f6053bbad5634128833c5")
+    ],
+    "__v" : NumberInt(3)
+}
+{
+    "_id" : ObjectId("655f513abbad56341288335f"),
+    "name" : "Xiaomi",
+    "createDate" : "Nov 23, Thu 20:18:50",
+    "modifyDate" : "Nov 23, Thu 20:18:50",
+    "products" : [
+        ObjectId("655f51a5bbad563412883363"),
+        ObjectId("655f52c1bbad563412883382")
+    ],
+    "__v" : NumberInt(2)
+}
